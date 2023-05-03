@@ -1,0 +1,1 @@
+document.querySelector(".navbar-header img").src

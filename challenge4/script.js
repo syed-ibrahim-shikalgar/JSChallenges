@@ -1,0 +1,1 @@
+document.querySelector(".customer-support .one-tel-number").innerText = "+66655202155"

@@ -1,0 +1,1 @@
+document.querySelector(".home22-intro-text p").innerHTML = "JSBootcamp"; 
